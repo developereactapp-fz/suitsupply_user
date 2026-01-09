@@ -1,7 +1,7 @@
 import { AppBar, Toolbar, Box, Typography } from "@mui/material";
 import { Link as RouterLink } from "react-router-dom";
 import SearchBar from "./SearchBar";
-import logo from "../assets/logo.png";
+import logo from "../assets/levlabs.ico";
 
 export default function Header() {
   return (
