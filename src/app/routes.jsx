@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
-import Login from "../pages/Auth/Login";
-import Signup from "../pages/Auth/Signup";
-import ResetPassword from "../pages/Auth/ResetPassword";
-import Home from "../pages/Home/Home";
+import Login from "../pages/auth/login";
+import Signup from "../pages/auth/Signup";
+import ResetPassword from "../pages/auth/ResetPassword";
+import Home from "../pages/home/Home";
 
 export default function AppRoutes() {
   return (
